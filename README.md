@@ -3,7 +3,7 @@
 # Amazon Clone
 
 This is a **clone of the Amazon website** built using **HTML and CSS**.  
-It replicates the basic layout and design of Amazon's homepage, including the navbar, hero section, product categories, and footer by Tushar Tyagi.
+It replicates the basic layout and design of Amazon's homepage, including the navbar, hero section, product categories, and footer by Tushar.
 
 ## Features
 
